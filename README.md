@@ -1,2 +1,3 @@
 # Male-vs.-Female-Classification
-Here, I compare three supervised learning models from the Sci-Kit Learn Library and print the most accurate one.
+Here, I use a decision tree to make a simple sex classification based on height, weight, shoe size. 
+Results: Body fat doesn't discriminate.
